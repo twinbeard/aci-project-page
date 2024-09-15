@@ -1,14 +1,50 @@
 [
     {
-        "class": "Class 1",
-        "link": "youtube.com/hello"
+        "class": "ACI 11 Reading ",
+        "link": "https://drive.google.com/drive/folders/152qhOrw6LqV4hSzwnZqXNFhwBOpAFklK?usp=sharing"
     },
     {
-        "class": "Class 2",
-        "link": "youtube.com/hello"
+        "class": "ACI 10 Reading ",
+        "link": "https://drive.google.com/drive/folders/1P68-rL82SAkaf-uIS0UipZAGEa6AHoGe?usp=sharing"
     },
     {
-         "class": "Class 3",
-        "link": "youtube.com/hello"
+        "class": "ACI 9 Reading ",
+        "link": "https://drive.google.com/drive/folders/18UK85yJhScy69od3_WYXl5z-HJI9imLW?usp=sharing"
+    },
+    {
+        "class": "ACI 8 Reading ",
+        "link": "https://drive.google.com/drive/folders/18aIPkilM-rzDBpyv9ZTc_BIkeByDMcY9?usp=sharing"
+    },
+    {
+        "class": "ACI 7 Reading ",
+        "link": "https://drive.google.com/drive/folders/1-yXAGjxbqFWQKLifpsv2ahzGtTsIkdzu?usp=sharing"
+    },
+    {
+        "class": "ACI 6 Reading ",
+        "link": "https://drive.google.com/drive/folders/1caOPl4O_tVf6sl0kKyhxuvcvlQrQcJ-P?usp=sharing"
+    },
+    {
+        "class": "ACI 5 Reading ",
+        "link": "https://drive.google.com/drive/folders/1HDRWZzXH6X93YoW74FXIuxnfpkIb6OCB?usp=sharing"
+    },
+    {
+        "class": "ACI 4 Reading",
+        "link": "https://drive.google.com/drive/folders/1UDIHVQXUIg5opZ-bQKGf0MXnnSHSGKcd?usp=sharing"
+    },
+    {
+        "class": "ACI 3 Reading",
+        "link": "https://drive.google.com/drive/folders/1AMvmofNaE-fxfAmkM1hDNEslUCkrcFiP?usp=sharing"
+    },
+    {
+        "class": "ACI 2 Reading",
+        "link": "https://drive.google.com/drive/folders/1HYYAWCgJ0e3b6wSicyfrnBAddpiJGsN_?usp=drive_link"
+    },
+    {
+        "class": "ACI 1 Reading",
+        "link": "https://drive.google.com/drive/folders/1V6HRsykZkWkIwicHXxnezrJs_LU0qska?usp=drive_link"
+    },
+    {
+        "class": "ACI 12 Reading ",
+        "link": "https://drive.google.com/drive/folders/1GPTu1by_MEWphOvP6Nz9rJa5rNVmMQoa?usp=sharing"
     }
 ]
