@@ -1,5 +1,12 @@
 [
     {
+        "vocabulary": "Bamboo",
+        "vietnamese": "Bamboo",
+        "tibAndSanskrit": "",
+        "comment": "Bamboo",
+        "verification": ""
+    },
+    {
         "vocabulary": "Lord of the Able",
         "vietnamese": "Vua Của Các Đấng Tối Thắng",
         "tibAndSanskrit": "",
@@ -53,7 +60,7 @@
         "vietnamese": "Trường phái Trung Quán Y Tự Khởi",
         "tibAndSanskrit": "",
         "comment": "",
-        "verification": ""
+        "verification": "Chưa check"
     },
     {
         "vocabulary": "Christian ",
@@ -480,7 +487,7 @@
         "vietnamese": "Hội thượng Phật Dược Sư",
         "tibAndSanskrit": "",
         "comment": "",
-        "verification": ""
+        "verification": "trùng số 24"
     },
     {
         "vocabulary": "Sage",
@@ -676,7 +683,7 @@
         "vietnamese": "Những (con) người vô cảm",
         "tibAndSanskrit": "",
         "comment": "",
-        "verification": ""
+        "verification": "trùng 27"
     },
     {
         "vocabulary": "Conception\npramana",
@@ -722,10 +729,10 @@
     },
     {
         "vocabulary": "Pratimoksha",
-        "vietnamese": "Giải thoát cá nhân, giới nguyện cá nhân",
+        "vietnamese": "Giải thoát cá nhân",
         "tibAndSanskrit": "",
         "comment": "",
-        "verification": ""
+        "verification": "giới nguyện cá nhân"
     },
     {
         "vocabulary": "Come to pass",
@@ -816,7 +823,7 @@
         "vietnamese": "Tối thượng",
         "tibAndSanskrit": "",
         "comment": "",
-        "verification": ""
+        "verification": "chưa confirm"
     },
     {
         "vocabulary": "Emanation",
@@ -865,7 +872,7 @@
         "vietnamese": "Đấng Giác Ngộ",
         "tibAndSanskrit": "",
         "comment": "",
-        "verification": ""
+        "verification": "trùng với 26"
     },
     {
         "vocabulary": "all of a sudden",
@@ -901,6 +908,13 @@
         "tibAndSanskrit": "",
         "comment": "",
         "verification": ""
+    },
+    {
+        "vocabulary": "Comes from",
+        "vietnamese": "Made in a particular place",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "còn có nghĩa này"
     },
     {
         "vocabulary": "protector",
@@ -994,6 +1008,13 @@
         "verification": ""
     },
     {
+        "vocabulary": "the Medicine Buddha team.",
+        "vietnamese": "Hội thượng Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 10"
+    },
+    {
         "vocabulary": "Kangyur",
         "vietnamese": "Kinh Tạng",
         "tibAndSanskrit": "",
@@ -1006,6 +1027,13 @@
         "tibAndSanskrit": "",
         "comment": "",
         "verification": "ok"
+    },
+    {
+        "vocabulary": "cold-hearted people",
+        "vietnamese": "Những (con) người vô cảm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 17"
     },
     {
         "vocabulary": "The perfect and totally Enlightened One",
@@ -1121,10 +1149,10 @@
     },
     {
         "vocabulary": "Antidote",
-        "vietnamese": "Cách hóa giải, Cách đối trị, Thuốc giải độc(Tùy theo ngữ cảnh.)",
+        "vietnamese": "Cách hóa giải, Cách đối trị, Thuốc giải độc.",
         "tibAndSanskrit": "",
         "comment": "",
-        "verification": ""
+        "verification": "Tùy theo ngữ cảnh."
     },
     {
         "vocabulary": "Abhidharma",
@@ -1156,10 +1184,10 @@
     },
     {
         "vocabulary": "Give the empowerment\n\n\nTake the empowerment",
-        "vietnamese": "Truyền lễ quán đảnh/truyền trao sự quán đảnh (tuỳ theo ngữ cảnh) / Nhận quán đảnh \nLưu ý: không viết hoa chữ ‘quán đảnh” nếu không phải ở đầu câu",
+        "vietnamese": "Truyền lễ quán đảnh/truyền trao sự quán đảnh (tuỳ theo ngữ cảnh)\nNhận quán đảnh",
         "tibAndSanskrit": "",
         "comment": "",
-        "verification": ""
+        "verification": "Lưu ý: không viết hoa chữ ‘quán đảnh” nếu không phải ở đầu câu"
     },
     {
         "vocabulary": "Lord Tsongkapa",
@@ -1753,8 +1781,8 @@
         "vocabulary": "Equanimity\nLimitless equanimity\nInfinite equanimity",
         "vietnamese": "Sự xả bỏ\n\n\nNiềm An lạc vô biên\nSự xả bỏ vô lượng",
         "tibAndSanskrit": "",
-        "comment": "Theo ngữ cảnh video 2 (Nguồn: Từ điển Phật học Thiện Phúc)",
-        "verification": ""
+        "comment": "",
+        "verification": "Theo ngữ cảnh video 2 (Nguồn: Từ điển Phật học Thiện Phúc)"
     },
     {
         "vocabulary": "Go off",
@@ -2156,6 +2184,13 @@
         "verification": ""
     },
     {
+        "vocabulary": "the Medicine Buddha team.",
+        "vietnamese": "Hội thượng Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng số 24"
+    },
+    {
         "vocabulary": "The other day",
         "vietnamese": "mới đây, gần đây",
         "tibAndSanskrit": "",
@@ -2313,8 +2348,8 @@
         "vocabulary": "Panchen Lama",
         "vietnamese": "Ngài Panchen Lama (Ban Thiền Lạt Ma)",
         "tibAndSanskrit": "",
-        "comment": "Giữ nguyên tên của Ngài và (..) tiếng Việt để học viên biết",
-        "verification": ""
+        "comment": "",
+        "verification": "Giữ nguyên tên của Ngài và (..) tiếng Việt để học viên biết"
     },
     {
         "vocabulary": "Stages of meditation",
@@ -2432,8 +2467,8 @@
         "vocabulary": "Equanimity\nLimitless equanimity\nInfinite equanimity",
         "vietnamese": "Sự xả bỏ\n\n\nNiềm An lạc vô biên\nSự xả bỏ vô lượng",
         "tibAndSanskrit": "",
-        "comment": "Theo ngữ cảnh video 2 (Nguồn: Từ điển Phật học Thiện Phúc)",
-        "verification": ""
+        "comment": "",
+        "verification": "Theo ngữ cảnh video 2 (Nguồn: Từ điển Phật học Thiện Phúc)"
     },
     {
         "vocabulary": "\tThere you go",
@@ -2887,8 +2922,8 @@
         "vocabulary": "Give the empowerment\n\n\nTake the empowerment",
         "vietnamese": "Truyền lễ quán đảnh/truyền trao sự quán đảnh (tuỳ theo ngữ cảnh)\nNhận quán đảnh",
         "tibAndSanskrit": "",
-        "comment": "Lưu ý: không viết hoa chữ ‘quán đảnh” nếu không phải ở đầu câu",
-        "verification": ""
+        "comment": "",
+        "verification": "Lưu ý: không viết hoa chữ ‘quán đảnh” nếu không phải ở đầu câu"
     },
     {
         "vocabulary": "Upset, worried, unhappy, angry",
@@ -3346,6 +3381,13 @@
         "verification": ""
     },
     {
+        "vocabulary": "Englightened Being",
+        "vietnamese": "Đấng Giác Ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 16"
+    },
+    {
         "vocabulary": "Yakshas\n\nThe twelve yakshas",
         "vietnamese": "Các vị dược xoa\n\nThập nhị Dược Xoa Đại Tướng\n\n12 vị đại tướng Dược Xoa",
         "tibAndSanskrit": "",
@@ -3458,6 +3500,13 @@
         "verification": "Okay"
     },
     {
+        "vocabulary": "Englightened Being",
+        "vietnamese": "Đấng Giác Ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 16"
+    },
+    {
         "vocabulary": "Navel chakra",
         "vietnamese": "Luân xa bụng or Luân xa rốn",
         "tibAndSanskrit": "",
@@ -3552,8 +3601,8 @@
         "vocabulary": "Pratimoksha",
         "vietnamese": "Giải thoát cá nhân",
         "tibAndSanskrit": "",
-        "comment": "giới nguyện cá nhân",
-        "verification": ""
+        "comment": "",
+        "verification": "giới nguyện cá nhân"
     },
     {
         "vocabulary": "Sunlight on Suchness",
@@ -3638,6 +3687,13 @@
         "tibAndSanskrit": "",
         "comment": "",
         "verification": ""
+    },
+    {
+        "vocabulary": "Antidote",
+        "vietnamese": "Cách hóa giải, Cách đối trị, Thuốc giải độc.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Tùy theo ngữ cảnh."
     },
     {
         "vocabulary": "Heap",
@@ -4147,8 +4203,8 @@
         "vocabulary": "Diamond Cutter sutra",
         "vietnamese": "Kinh Năng Đoạn Kim Cương",
         "tibAndSanskrit": "",
-        "comment": "Đã được thầy lưu ý ở bài giảng nào đó trong retreat.",
-        "verification": ""
+        "comment": "",
+        "verification": "Đã được thầy lưu ý ở bài giảng nào đó trong retreat."
     },
     {
         "vocabulary": "just has a different",
@@ -4282,6 +4338,13 @@
         "tibAndSanskrit": "",
         "comment": "",
         "verification": ""
+    },
+    {
+        "vocabulary": "cold-hearted people",
+        "vietnamese": "Những (con) người vô cảm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 17"
     },
     {
         "vocabulary": "Manjusri\nGentle Voice (c bổ sung)",
@@ -4806,7 +4869,7 @@
         "vietnamese": "Tối thượng",
         "tibAndSanskrit": "",
         "comment": "",
-        "verification": ""
+        "verification": "chưa confirm"
     },
     {
         "vocabulary": "In the first place",
@@ -4956,6 +5019,13 @@
         "verification": ""
     },
     {
+        "vocabulary": "the Medicine Buddha team.",
+        "vietnamese": "Hội thượng Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 10"
+    },
+    {
         "vocabulary": "Call in",
         "vietnamese": "gọi đến",
         "tibAndSanskrit": "",
@@ -4984,11 +5054,18 @@
         "verification": ""
     },
     {
+        "vocabulary": "Englightened Being",
+        "vietnamese": "Đấng Giác Ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng với 26"
+    },
+    {
         "vocabulary": "Confession",
         "vietnamese": "Sám hối, thú nhận, thú tội...",
         "tibAndSanskrit": "",
-        "comment": "Tùy theo ngữ cảnh.",
-        "verification": ""
+        "comment": "",
+        "verification": "Tùy theo ngữ cảnh."
     },
     {
         "vocabulary": "cấu trúc TOO...TO",
@@ -5390,6 +5467,13 @@
         "verification": ""
     },
     {
+        "vocabulary": "grab=grasp",
+        "vietnamese": "chấp trước/bám chấp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
         "vocabulary": "Sunlight on Suchness",
         "vietnamese": "Ánh Mặt Trời Về Chân Như",
         "tibAndSanskrit": "",
@@ -5470,8 +5554,8 @@
         "vocabulary": "Diamond Cutter sutra",
         "vietnamese": "Kinh Năng Đoạn Kim Cương",
         "tibAndSanskrit": "",
-        "comment": "Đã được thầy lưu ý ở bài giảng nào đó trong retreat.",
-        "verification": ""
+        "comment": "",
+        "verification": "Đã được thầy lưu ý ở bài giảng nào đó trong retreat."
     },
     {
         "vocabulary": "Asokottamasriraja:\n(No Grief)",
@@ -5626,6 +5710,13 @@
         "tibAndSanskrit": "",
         "comment": "",
         "verification": ""
+    },
+    {
+        "vocabulary": "cold-hearted people",
+        "vietnamese": "Những (con) người vô cảm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 27"
     },
     {
         "vocabulary": "move on",
@@ -6079,8 +6170,8 @@
         "vocabulary": "Confession",
         "vietnamese": "Sám hối, thú nhận, thú tội...",
         "tibAndSanskrit": "",
-        "comment": "Tùy theo ngữ cảnh.",
-        "verification": ""
+        "comment": "",
+        "verification": "Tùy theo ngữ cảnh."
     },
     {
         "vocabulary": "Tara",
@@ -6121,8 +6212,8 @@
         "vocabulary": "Medicine Buddha",
         "vietnamese": "Phật Dược Sư",
         "tibAndSanskrit": "Bhaisajya Guru Vaidya Prabha Raja",
-        "comment": "SMAN GYI BLA BEE  'OD KYI RGYAL PO",
-        "verification": ""
+        "comment": "",
+        "verification": "SMAN GYI BLA BEE d'URYA'I 'OD KYI RGYAL PO"
     },
     {
         "vocabulary": "Diamond Way",
