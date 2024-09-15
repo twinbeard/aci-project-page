@@ -1,0 +1,6722 @@
+[
+    {
+        "vocabulary": "Bamboo",
+        "vietnamese": "Bamboo",
+        "tibAndSanskrit": "",
+        "comment": "Bamboo",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lord of the Able",
+        "vietnamese": "Vua Của Các Đấng Tối Thắng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Literature",
+        "vietnamese": "Bản Văn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Young Counterpart",
+        "vietnamese": "Hậu bối ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Train in clear thinking: ",
+        "vietnamese": "Rèn luyện tư duy rõ ràng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Intermediate nun ",
+        "vietnamese": "Thước xoa ma ni.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Great Fifth ",
+        "vietnamese": "Đức Đạt lại lạt ma thứ 5",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Hardword ",
+        "vietnamese": "nỗ lực",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Independent School",
+        "vietnamese": "Trường phái Trung Quán Y Tự Khởi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Chưa check"
+    },
+    {
+        "vocabulary": "Christian ",
+        "vietnamese": "Kitô giáo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Community of bodhisattvas",
+        "vietnamese": "hội thương chư vị bồ tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Precious few of (very few of)",
+        "vietnamese": "Rất ít cái gì đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": " The geshe degree",
+        "vietnamese": "Học vị tiến sĩ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Being",
+        "vietnamese": "Chúng sinh, các sự tồn tại, các tồn tại",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Living being",
+        "vietnamese": "Chúng hữu tình",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sentient being",
+        "vietnamese": "Chúng sinh có tri giác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Boddhichita",
+        "vietnamese": "Bồ đề tâm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Great Pure One",
+        "vietnamese": "- \"Đấng Thuần Khiết Vĩ Đại - Đại Phạm Vương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Lady of Liberation",
+        "vietnamese": "Vị Thánh Nữ của sự giải thoát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "path of preparation",
+        "vietnamese": "",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Initiation",
+        "vietnamese": "Lễ quán đảnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "correct view",
+        "vietnamese": "quan điểm đúng đắn = chánh kiến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Wheel Emperor",
+        "vietnamese": "Luân Vương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Back end",
+        "vietnamese": "đầu sau",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Go off",
+        "vietnamese": "rung (điện thoại rung, kêu), bị hỏng (ngừng hoạt động), chất lượng kém, buồn ngủ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Maudgalyāyana",
+        "vietnamese": "Ngài Mục Kiền Liên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Great Commentary",
+        "vietnamese": "Đại Luận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Yogi",
+        "vietnamese": "người tập yoga thuần thực, coi nó là lối sống của mình",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Asokottamasriraja:\n(No Grief)",
+        "vietnamese": "Vô Ưu Tối Thắng Cát Tường Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Quietude\nStillness",
+        "vietnamese": "Sự yên lặng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Eon",
+        "vietnamese": "thời kỳ dài vô tận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "",
+        "vietnamese": "Các từ hay dùng: tụng Kinh, trì chú, niệm Phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Cross over",
+        "vietnamese": "chuyển qua",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get rid of",
+        "vietnamese": "loại bỏ, thoát khỏi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sbyor Ba\nAction",
+        "vietnamese": "Hành động",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Ornament of Realizations",
+        "vietnamese": "Sự Trang Hoàng cho Thực Chứng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dharmakāya\nemptiness body",
+        "vietnamese": "Pháp thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Based on the Medicine Buddha",
+        "vietnamese": "Nương tựa vào Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Offering to Lama",
+        "vietnamese": "cúng dường lên các lạt ma",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Heart Sutra",
+        "vietnamese": "Bát Nhã Ba La Mật Đa Tâm Kinh/ Bát Nhã Tâm Kinh",
+        "tibAndSanskrit": "prajñāpāramitā",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Come to pass",
+        "vietnamese": "xảy ra",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to top off",
+        "vietnamese": "hoàn thành, làm xong",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "kong xing \nEmptiness",
+        "vietnamese": "Tính không",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddha land",
+        "vietnamese": "Vùng đất Phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Bhagavato = Bhagava = Bhagavad",
+        "vietnamese": "Đức Thế Tôn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Reciting Before the Pure One",
+        "vietnamese": "-\"Trì Tụng Trước Đấng Thuần Khiết (Phụ tá của Đại Phạm Vương) - Phạm Phụ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Essence of the Ocean",
+        "vietnamese": "bản chất của đại dương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "fade away",
+        "vietnamese": "dần biến mất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pure",
+        "vietnamese": "thanh tịnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Empowerment",
+        "vietnamese": "Lễ quán đảnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "6 perfections",
+        "vietnamese": "6 sự hoàn hảo = 6 ba la mật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Freedom Shelter",
+        "vietnamese": "cứu thoát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Arhat",
+        "vietnamese": "A la hán",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vasubandhu",
+        "vietnamese": "Ngài Thế Thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Path of karma",
+        "vietnamese": "",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the 12 spirit lords",
+        "vietnamese": "12 vị chúa tể của các quỷ thần.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Heap",
+        "vietnamese": "Uẩn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Run into",
+        "vietnamese": "tình cờ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "move on",
+        "vietnamese": "đi tiếp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "chegom",
+        "vietnamese": "Thiền giải quyết vấn đề",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "samyaksaṃbuddha",
+        "vietnamese": "Chánh Biến Tri",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Ornament of/for Realization",
+        "vietnamese": "Trang hoàng cho sự thực chứng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Worthy One",
+        "vietnamese": "Ứng Cúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Deny",
+        "vietnamese": "phủ nhận/bác bỏ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "\"Implication\" School",
+        "vietnamese": "trung quán cụ duyên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "intellectual understanding",
+        "vietnamese": "sự hiểu biết tri thức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Emanation",
+        "vietnamese": "Hóa thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Worthy One",
+        "vietnamese": "Ứng Cúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "talk your way out of sth",
+        "vietnamese": "Giỏi chống chế, tài mồm mép, dẻo mỏ, khéo mồm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Medicine Buddha team.",
+        "vietnamese": "Hội thượng Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng số 24"
+    },
+    {
+        "vocabulary": "Sage",
+        "vietnamese": "nhà hiền triết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "don't go away",
+        "vietnamese": "thứ không biến mất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "impaired",
+        "vietnamese": "bị tổn thương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Gakja",
+        "vietnamese": " thứ Đại thừa phủ nhận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Gijjhakuta\n Vulture peak",
+        "vietnamese": "Núi Linh Thứu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "attendant",
+        "vietnamese": "thị giả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "refrain",
+        "vietnamese": "tự kiềm chế",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Essence of the Middle Way",
+        "vietnamese": "bản chất của Trung Đạo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Bhavaviveka",
+        "vietnamese": "Ngài Thanh Biện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Equal minded",
+        "vietnamese": "",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mahāsāṃghika",
+        "vietnamese": "Đại chúng bộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Destroyer of the Foe",
+        "vietnamese": "Đấng Ứng Cúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Swear by",
+        "vietnamese": "Tin tưởng mạnh mẽ rằng nó hoạt động hiệu quả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "material prosperity",
+        "vietnamese": "thịnh vượng về mặt vật chất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "self-existant",
+        "vietnamese": "tồn tại từ chính chúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Wheel of life",
+        "vietnamese": "Bánh xe luân hồi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "wrap up",
+        "vietnamese": "hoàn thành/tóm lại",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "What if",
+        "vietnamese": "nếu … thì sao",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "level",
+        "vietnamese": "cấp độ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "TUBSUNG/ Dug Gsum \ndesire, anger, ignorance.",
+        "vietnamese": "tham, sân, si",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "stretch as far as space itself",
+        "vietnamese": "trải khắp trong không gian",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take the Bodhisattva commitment",
+        "vietnamese": "Phát nguyện Bồ Tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Bhagavato = Bhagava = Bhagavad",
+        "vietnamese": "Đức Thế Tôn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "For time with no beginning",
+        "vietnamese": "Từ vô thủy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Initiation",
+        "vietnamese": "Lễ quán đảnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "the Able",
+        "vietnamese": "Đấng Tối Thắng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Rupakaya",
+        "vietnamese": "thân vật lý của phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "cold-hearted people",
+        "vietnamese": "Những (con) người vô cảm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 27"
+    },
+    {
+        "vocabulary": "Conception\npramana",
+        "vietnamese": "nhận thức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "King who Holds the Pinnacle.\nShikhara Dhara Raja",
+        "vietnamese": "Diệu Cao Phong Bồ Tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Gakja",
+        "vietnamese": " thứ Đại thừa phủ nhận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Hinayana",
+        "vietnamese": "Tiểu thừa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Proof of Emptiness",
+        "vietnamese": "chứng minh về tính không",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Impeccable in Conduct and Understanding",
+        "vietnamese": "Minh Hạnh Túc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pratimoksha",
+        "vietnamese": "Giải thoát cá nhân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "giới nguyện cá nhân"
+    },
+    {
+        "vocabulary": "Come to pass",
+        "vietnamese": "xảy ra",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Renunciation",
+        "vietnamese": "sự buông bỏ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "path of habituation",
+        "vietnamese": "Con đường của thói quen",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "open teachings",
+        "vietnamese": "những giáo pháp công khai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get angry",
+        "vietnamese": "nổi giận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to come into being (existence)",
+        "vietnamese": "hình thành, ra đời",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sun Gleam, and Moon Glow",
+        "vietnamese": "Nhật Quang Biến Chiếu, và Nguyệt Quang Biến Chiếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "don't go away",
+        "vietnamese": "thứ không biến mất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Essential Jewel",
+        "vietnamese": "Viên Ngọc Tinh Hoa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Apply oneself",
+        "vietnamese": "chuyên tâm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Cross over",
+        "vietnamese": "chuyển qua",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Call in",
+        "vietnamese": "gọi đến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Unsurpassable",
+        "vietnamese": "Tối thượng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "chưa confirm"
+    },
+    {
+        "vocabulary": "Emanation",
+        "vietnamese": "Hóa thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "to treat someone well",
+        "vietnamese": "đối xử tốt với ai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The perfect and totally Enlightened One",
+        "vietnamese": "Chánh Biến Tri",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Commitment",
+        "vietnamese": "Nguyện /lời nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "become more public knowledge",
+        "vietnamese": "bị tiết lộ ra công chúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "For time with no beginning",
+        "vietnamese": "Từ vô thủy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Englightened Being",
+        "vietnamese": "Đấng Giác Ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng với 26"
+    },
+    {
+        "vocabulary": "all of a sudden",
+        "vietnamese": "rất bất thình lình / thật là bất ngờ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mother",
+        "vietnamese": "tác phẩm Mẹ: phần chính của giáp pháp về trí tuệ hoàn hảo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Hail Mary",
+        "vietnamese": "Kính chào Đức Mẹ Maria",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Comparative Systems",
+        "vietnamese": "Các Hệ Thống So Sánh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "immeasurable love\n(byams-pa, Skt: maitri, Pali: metta)",
+        "vietnamese": "Từ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Comes from",
+        "vietnamese": "Made in a particular place",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "còn có nghĩa này"
+    },
+    {
+        "vocabulary": "protector",
+        "vietnamese": "người bảo hộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Katyayaniputra",
+        "vietnamese": "Ngài Ca Đa Diễn Ni Tử",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mahayana",
+        "vietnamese": "Đại Thừa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Essence of the Ocean",
+        "vietnamese": "bản chất của đại dương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Chengdu",
+        "vietnamese": "Thành đô, 1 thành phố của TQ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "TUBSUNG/ Dug Gsum \ndesire, anger, ignorance.",
+        "vietnamese": "tham, sân, si",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Abhisamayalankara",
+        "vietnamese": "Hiện quán trang nghiêm luận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Householder:",
+        "vietnamese": "gia chủ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "ALL (Asian Legacy Library)",
+        "vietnamese": "Thư viện Di sản Châu Á",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "material prosperity",
+        "vietnamese": "thịnh vượng về mặt vật chất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddha nature\nTathagata-garbha ",
+        "vietnamese": "Phật tính",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "put to an end",
+        "vietnamese": "chấm dứt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "xīguā",
+        "vietnamese": "quả dưa hấu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Medicine Buddha team.",
+        "vietnamese": "Hội thượng Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 10"
+    },
+    {
+        "vocabulary": "Kangyur",
+        "vietnamese": "Kinh Tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Seven Prayers Sutra",
+        "vietnamese": "Kinh Thất Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "cold-hearted people",
+        "vietnamese": "Những (con) người vô cảm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 17"
+    },
+    {
+        "vocabulary": "The perfect and totally Enlightened One",
+        "vietnamese": "Chánh Biến Tri",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take a vow",
+        "vietnamese": "Nhận giới nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Chandrakirti",
+        "vietnamese": "Ngài Nguyệt Xứng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Ultimate Wish",
+        "vietnamese": "Ước nguyện vô thượng/Ước nguyện tối thượng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Kun Slong – Motivation",
+        "vietnamese": "động lực",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "commentary",
+        "vietnamese": "luận giải",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Without fail",
+        "vietnamese": "chắc chắn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lesser Capacity",
+        "vietnamese": "năng lực thấp hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Jing",
+        "vietnamese": "Kinh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Conqueror = Bhagavan",
+        "vietnamese": "Bạc Già Phạm = Thế Tôn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Asanga",
+        "vietnamese": "Ngài Vô Trước",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get to",
+        "vietnamese": "có cơ hội để làm điều gì đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Merit",
+        "vietnamese": "Công đức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Out of anger",
+        "vietnamese": "vì tức giận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Suffering",
+        "vietnamese": "đau khổ về tinh thần",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddhahood",
+        "vietnamese": "Quả vị Phật, Phật quả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Antidote",
+        "vietnamese": "Cách hóa giải, Cách đối trị, Thuốc giải độc.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Tùy theo ngữ cảnh."
+    },
+    {
+        "vocabulary": "Abhidharma",
+        "vietnamese": "Vi Diệu Pháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Commentary",
+        "vietnamese": "luận giải",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Split hairs = seperate hairs",
+        "vietnamese": "bới lông tìm vết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Saṃbhogakāya\nẹnjoyment body",
+        "vietnamese": "Báo thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Give the empowerment\n\n\nTake the empowerment",
+        "vietnamese": "Truyền lễ quán đảnh/truyền trao sự quán đảnh (tuỳ theo ngữ cảnh)\nNhận quán đảnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Lưu ý: không viết hoa chữ ‘quán đảnh” nếu không phải ở đầu câu"
+    },
+    {
+        "vocabulary": "Lord Tsongkapa",
+        "vietnamese": "Đức Tsongkapa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Swear by",
+        "vietnamese": "Tin tưởng mạnh mẽ rằng nó hoạt động hiệu quả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sbyor Ba\nAction",
+        "vietnamese": "Hành động",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddha-nature",
+        "vietnamese": "Phật tánh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Even if",
+        "vietnamese": "dù cho có, dù nếu có, kể cả nếu như mà",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Thob blo",
+        "vietnamese": "trạng thái của tâm trí khi bạn nghĩ rằng “tôi đã hiểu nó”",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Thrust to the Goal\nAmoghavikram",
+        "vietnamese": "Bất Không Siêu Việt Bồ Tát ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "we are going to do together",
+        "vietnamese": "Chúng ta sẽ cùng nhau thực hiện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Grace",
+        "vietnamese": "Cúng dường thức ăn (cúng dường miếng ăn và thức uống đầu tiên lên Các Đức Phật, Các Đức Bồ tát, và các vị thầy của bạn)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Virtual retreat",
+        "vietnamese": "Khóa tu trực tuyến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Fat cat",
+        "vietnamese": "tư bản kếch xù, tài phiệt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Look upon",
+        "vietnamese": "nghĩ về",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sutrists",
+        "vietnamese": "Kinh Lượng bộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "\tThere you go",
+        "vietnamese": "được rồi nhé",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "even as I attain my perfection",
+        "vietnamese": "thậm chí ngay cả khi Ta đạt được sự hoàn hảo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Agitation",
+        "vietnamese": "những suy nghĩ lung tung",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dharmakirtisagara: (Famous Dharma Dharmakirti)",
+        "vietnamese": "Pháp Hải Lôi Âm Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Nirmāṇakāya\nemanation body",
+        "vietnamese": "Ứng thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mosque",
+        "vietnamese": "thánh đường hồi giáo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "proper behavior",
+        "vietnamese": "cách cư xử đúng đắn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "excellent signs and marks",
+        "vietnamese": "những nét tướng tuyệt hảo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Once-returner",
+        "vietnamese": "Nhất Lai (Tư đà hàm)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "pay honor to ",
+        "vietnamese": "bầy tỏ lòng tôn kính, kính trọng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get to know",
+        "vietnamese": "làm quen với ai đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Householder:",
+        "vietnamese": "gia chủ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "To be supposed to\nto have to;\n to have a duty or a responsibility to",
+        "vietnamese": "phải",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Based on the Medicine Buddha",
+        "vietnamese": "Nương tựa vào Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Once-returner",
+        "vietnamese": "Nhất Lai (Tư đà hàm)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to talk out of",
+        "vietnamese": "bàn ra, can ngăn, nói để đừng làm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "grief",
+        "vietnamese": "sự đau buồn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "refrain",
+        "vietnamese": "tự kiềm chế",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Entering the Middle Way",
+        "vietnamese": "Nhập trung đạo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "\"Mind-Only\" school",
+        "vietnamese": "trường phái duy thức/Duy Thức Tông",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take a vow",
+        "vietnamese": "nhận giới nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Place",
+        "vietnamese": "đoạn sách, đoạn bài",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "make the most of life",
+        "vietnamese": "tận dụng tối đa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Quadalajara",
+        "vietnamese": "Một thành phố của Mexico",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Shariputra",
+        "vietnamese": "Ngài Xá Lợi Phất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "have a crush on… sb",
+        "vietnamese": "phải lòng ai đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to top off",
+        "vietnamese": "hoàn thành, làm xong",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "non-dual",
+        "vietnamese": "bất nhị",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "perfect and total Buddha",
+        "vietnamese": "Phật chánh đẳng, cháng giác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddhism",
+        "vietnamese": "Đạo Phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "prayer",
+        "vietnamese": "lời nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok, cho khớp với Kinh"
+    },
+    {
+        "vocabulary": "bhagavad-gita",
+        "vietnamese": "Chí tôn ca",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Anger",
+        "vietnamese": "tức giận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pramana\nvalid perception, correct perception, clear thinking",
+        "vietnamese": "Nhận thức đúng đắn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Steps to Buddhahood",
+        "vietnamese": "Những Bước dẫn đến Phật Quả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Unexcelled Being",
+        "vietnamese": "Vô Thượng Sĩ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "talk your way out of sth",
+        "vietnamese": "Giỏi chống chế, tài mồm mép, dẻo mỏ, khéo mồm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "View of destruction",
+        "vietnamese": "góc nhìn của sự huỷ diệt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "in (with) reference to",
+        "vietnamese": "về (vấn đề gì...); có liên quan tới",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Virtual retreat",
+        "vietnamese": "Khóa tu trực tuyến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "practice reciting the sadhana",
+        "vietnamese": "thực hành trì tụng thành tựu pháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Mantra",
+        "vietnamese": "Bài chú",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "To be used to",
+        "vietnamese": "quen",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Holder of the Diamond (Vajrapani)",
+        "vietnamese": "Đại Thế Chí",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Perfectly Enlightened by Himself",
+        "vietnamese": "Chánh Biến Tri",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take refuge",
+        "vietnamese": "Quy y",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nagarjuna",
+        "vietnamese": "Ngài Long Thọ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get to know",
+        "vietnamese": "làm quen với ai đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dharma protectors",
+        "vietnamese": "Các vị hộ pháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Virtual Medicine Buddha retreat",
+        "vietnamese": "Khoá tu Phật Dược Sư trực tuyến.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "ground up",
+        "vietnamese": "Nghiền ra",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Total-Nirvana Sutra",
+        "vietnamese": "Kinh Đại Bát-Niết Bàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dharma protectors",
+        "vietnamese": "Các vị hộ pháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "let’s say",
+        "vietnamese": "giả sử rằng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The four immeasurable thoughts = four infinite thoughts",
+        "vietnamese": "Tứ Vô Lượng Tâm",
+        "tibAndSanskrit": "Brahmavihara",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Illumination",
+        "vietnamese": "Chiếu sáng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "comes to pass",
+        "vietnamese": "kết thúc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "attachment",
+        "vietnamese": "sự dính mắc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "in (with) reference to",
+        "vietnamese": "về (vấn đề gì...); có liên quan tới",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Perfect Trainer of Good Men",
+        "vietnamese": "Ðiều Ngự Trượng Phu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Bodhisattva’s Life",
+        "vietnamese": "Cuộc Đời Của Bồ Tát ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Garuda\n.= magical eagles",
+        "vietnamese": "Kim sí điểu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Circle of life",
+        "vietnamese": "Vòng luân hồi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Lamp for the Path",
+        "vietnamese": "đèn soi nẻo giác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "113.\tSelfishness—Self-cherishing—Selfish motive",
+        "vietnamese": "ích kỷ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Holy One",
+        "vietnamese": "Thế Tôn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "A Clarification of the Words",
+        "vietnamese": "Sự giải thích về ngôn từ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "break from",
+        "vietnamese": "thoát khỏi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the eight worldly thoughts",
+        "vietnamese": "8 mối bận tâm thế tục",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Light on the Path to Freedom",
+        "vietnamese": "Ánh Sáng Trên Con Đường Dẫn Đến Sự Tự Do",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The four immeasurable thoughts = four infinite thoughts",
+        "vietnamese": "Tứ Vô Lượng Tâm",
+        "tibAndSanskrit": "Brahmavihara",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Equanimity\nLimitless equanimity\nInfinite equanimity",
+        "vietnamese": "Sự xả bỏ\n\n\nNiềm An lạc vô biên\nSự xả bỏ vô lượng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Theo ngữ cảnh video 2 (Nguồn: Từ điển Phật học Thiện Phúc)"
+    },
+    {
+        "vocabulary": "Go off",
+        "vietnamese": "rung (điện thoại rung, kêu), bị hỏng (ngừng hoạt động), chất lượng kém, buồn ngủ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Renunciation",
+        "vietnamese": "sự buông bỏ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Conception\npramana",
+        "vietnamese": "nhận thức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vinaya Pitaka",
+        "vietnamese": "luật tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Asian Classics Input Project, ACIP",
+        "vietnamese": "Dự Án Nhập Liệu Kinh Điển Châu Á, ACIP",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "sentient beings",
+        "vietnamese": "Chúng Hữu Tình",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "sickness of negative thought",
+        "vietnamese": "bệnh suy nghĩ tiêu cực",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Virtual Medicine Buddha retreat",
+        "vietnamese": "Khoá tu Phật Dược Sư trực tuyến.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Go through",
+        "vietnamese": "nghiên cứu cẩn thận/ đi qua",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pure One",
+        "vietnamese": "Đấng Thuần Khiết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Bring up",
+        "vietnamese": "khơi dậy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "self-existant",
+        "vietnamese": "tồn tại từ chính chúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Suparikirti-tanamasriraja: \n(Good name)/ Mr. Excellent Name",
+        "vietnamese": "Thiện Danh Xưng Cát Tường Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "the Asian Classics Input Project, ACIP",
+        "vietnamese": "Dự Án Nhập Liệu Kinh Điển Châu Á, ACIP",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Seven Prayers Sutra",
+        "vietnamese": "Kinh Thất Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Wheel of life",
+        "vietnamese": "Bánh xe luân hồi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Able One",
+        "vietnamese": "Đấng Tối Thắng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Perfection of wisdom",
+        "vietnamese": "Trí tuệ toàn hảo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Samskara\nfresh karma",
+        "vietnamese": "hành uẩn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nirmāṇakāya\nemanation body",
+        "vietnamese": "Ứng thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Without fail",
+        "vietnamese": "chắc chắn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pay lip service sth",
+        "vietnamese": "nói lời đãi bôi, không thành thật, chỉ thường nhận cái gì đó ngoài miệng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take the Bodhisattva commitment",
+        "vietnamese": "Phát nguyện Bồ Tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "ignorant liking",
+        "vietnamese": "thích vô minh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Path To Bliss",
+        "vietnamese": "Con đường đến hỷ lạc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Sutra of the Seven Prayers",
+        "vietnamese": "Kinh Thất Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Retreat",
+        "vietnamese": "Khóa tu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Buddhist",
+        "vietnamese": "Phật Tử",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "cognate",
+        "vietnamese": "từ cùng gốc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Do a kick ass",
+        "vietnamese": "hãy thực hiện 1 điều gì đó tuyệt vời",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "teaching throne",
+        "vietnamese": "Pháp tòa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Medicine Buddha Practice\n\n\n\n\nLearn Medicine Buddha Practice",
+        "vietnamese": "Thực Hành Pháp Phật Dược Sư \n\n\n\nHọc cách thực hành pháp Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "non-dual",
+        "vietnamese": "bất nhị",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Wheel Emperor",
+        "vietnamese": "Luân Vương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Seven Prayers Sutra",
+        "vietnamese": "Kinh Thất Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Commitment",
+        "vietnamese": "Nguyện /lời nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Illusion",
+        "vietnamese": "ảo tưởng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "What if",
+        "vietnamese": "nếu … thì sao",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Shining Like the Moon",
+        "vietnamese": "Nguyệt quang biến chiếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mahamudra = great seal",
+        "vietnamese": "Đại thủ ấn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Greater Steps on the Secret Path",
+        "vietnamese": "Những Bước Vĩ Đại Hơn trên Con Đường Bí Mật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Maha",
+        "vietnamese": "to lớn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "open teachings",
+        "vietnamese": "những giáo pháp công khai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "instant by instant",
+        "vietnamese": "từng khoảnh khắc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Category",
+        "vietnamese": "căn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Functionalist\" group",
+        "vietnamese": "Nhóm chức năng luận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Medicine Buddhas",
+        "vietnamese": "Các Đức Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "King who Holds the Pinnacle.\nShikhara Dhara Raja",
+        "vietnamese": "Diệu Cao Phong Bồ Tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Awareness",
+        "vietnamese": "sự nhận biết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Greater Steps on the Path",
+        "vietnamese": "Những Bước Vĩ Đại Hơn trên Con Đường",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "each one for the other",
+        "vietnamese": "mỗi người vì mọi người",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dharmakāya\nemptiness body",
+        "vietnamese": "Pháp thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Heart Sutra",
+        "vietnamese": "Bát Nhã Ba La Mật Đa Tâm Kinh/ Bát Nhã Tâm Kinh",
+        "tibAndSanskrit": "prajñāpāramitā",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Go through",
+        "vietnamese": "Điểm qua, trải qua, thông qua, đồng thuận...",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Three Jewels, Three Treasures",
+        "vietnamese": "Tam Bảo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Suvarnabhadradravimala: \n(Pure Gold)/Perfect Gold",
+        "vietnamese": "Kim Sắc Bảo Quang Diệu Hạnh Thành Tựu Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Tengyur",
+        "vietnamese": "Luận Tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Medicine Buddha team.",
+        "vietnamese": "Hội thượng Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng số 24"
+    },
+    {
+        "vocabulary": "The other day",
+        "vietnamese": "mới đây, gần đây",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vowed Morality",
+        "vietnamese": "giới luật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take your Bodhisattva commitment/Bodhisattva commitment",
+        "vietnamese": "Phát nguyện Bồ Tát/lời nguyện Bồ Tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Lǎoshī",
+        "vietnamese": "thầy giáo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Arhat",
+        "vietnamese": "A la hán",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "cycle of pain",
+        "vietnamese": "chu kỳ đau khổ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "To be in favour of sth",
+        "vietnamese": "ủng hộ cái gì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "have trouble",
+        "vietnamese": "gặp khó khăn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the written Dharma",
+        "vietnamese": "pháp thể hiện bằng văn bản",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lesser Virtue",
+        "vietnamese": "Thiểu Tĩnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "covering his ass",
+        "vietnamese": "tự bảo vệ bản thân khỏi những lời chỉ trích",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Illusion",
+        "vietnamese": "ảo tưởng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "immeasurable equanimity\n (btang-snyoms, Skt: upeksha, Pali: upekkha)",
+        "vietnamese": "Xả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "knock something down\nget rid of something",
+        "vietnamese": "dập tắt nó ngay lập tức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "knock something down\nget rid of something",
+        "vietnamese": "dập tắt nó ngay lập tức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": " Mahakaushtila",
+        "vietnamese": "Ngài Ma Ha Câu Hy La",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "cycle of pain",
+        "vietnamese": "chu kỳ đau khổ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Not … but rather",
+        "vietnamese": "không phải … mà là",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "frame of mind",
+        "vietnamese": "tâm trạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Suchness—The real truth of things",
+        "vietnamese": "chân như",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mind only",
+        "vietnamese": "Duy Thức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Holy One",
+        "vietnamese": "Thế Tôn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Panchen Lama",
+        "vietnamese": "Ngài Panchen Lama (Ban Thiền Lạt Ma)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Giữ nguyên tên của Ngài và (..) tiếng Việt để học viên biết"
+    },
+    {
+        "vocabulary": "Stages of meditation",
+        "vietnamese": "Các giai đoạn thiền định",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "non-duality",
+        "vietnamese": "bất nhị nguyên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Essence of Eloquence",
+        "vietnamese": "Tinh Hoa Hùng Biện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "And then",
+        "vietnamese": "hơn nữa, vả lại, thêm vào đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "stretch as far as space itself",
+        "vietnamese": "trải khắp trong không gian",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "tulku",
+        "vietnamese": "tên chung chỉ tái sinh của bậc thầy tâm linh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pop in",
+        "vietnamese": "đi vào chớp nhoáng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Kadampa",
+        "vietnamese": "Phái Kadampa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get angry",
+        "vietnamese": "nổi giận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Suffering",
+        "vietnamese": "đau khổ về tinh thần",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "fade away",
+        "vietnamese": "dần biến mất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "ultimate truth",
+        "vietnamese": "sự thật tối thượng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Awareness",
+        "vietnamese": "sự nhận biết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The four immeasurable practices",
+        "vietnamese": "Thực hành Tứ Vô Lượng Tâm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Inconceivable",
+        "vietnamese": "không thể nghĩ bàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Equal minded",
+        "vietnamese": "Tâm bình đẳng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Equanimity\nLimitless equanimity\nInfinite equanimity",
+        "vietnamese": "Sự xả bỏ\n\n\nNiềm An lạc vô biên\nSự xả bỏ vô lượng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Theo ngữ cảnh video 2 (Nguồn: Từ điển Phật học Thiện Phúc)"
+    },
+    {
+        "vocabulary": "\tThere you go",
+        "vietnamese": "được rồi nhé",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Matchless Enlightenment",
+        "vietnamese": "Vô thượng chánh đẳng chánh giác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Deceptively",
+        "vietnamese": "Làm cho nhầm lẫn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lady of Liberation",
+        "vietnamese": "Vị Thánh Nữ của sự giải thoát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nirvana",
+        "vietnamese": "Niết bàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Non-returner",
+        "vietnamese": "Bất Lai (A na hàm)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Maha",
+        "vietnamese": "to lớn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Illumination of the True Thought",
+        "vietnamese": "Sự Soi Rọi của Ý Nghĩ Đúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Realization",
+        "vietnamese": "chứng ngộ/ nhận thức thấu đáo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "go off",
+        "vietnamese": "bắt đầu không thích",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Fàntǒng\nstupid",
+        "vietnamese": "vô dụng, bất tài, ngốc nghếch ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "immeasurable compassion \n(snying-rje, Skt: karuna, Pali: karuna)",
+        "vietnamese": "Bi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Practitioners",
+        "vietnamese": "Những người thực hành pháp/Hành giả.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "put to an end",
+        "vietnamese": "chấm dứt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "grab=grasp",
+        "vietnamese": "chấp trước/bám chấp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sunlight on the Path to Freedom",
+        "vietnamese": "Ánh Mặt Trời trên Con Đường đến Sự Tự Do",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Bodhisattvacaryavatara",
+        "vietnamese": "Nhập Bồ Tát Hành",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Abhisamayalankara",
+        "vietnamese": "Hiện quán trang nghiêm luận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Deceptively truth",
+        "vietnamese": "Sự thật làm cho nhầm lẫn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Wisdom, The Root Text on the Middle Way",
+        "vietnamese": "Trí Tuệ, Văn Bản Gốc Trên Con Đường Trung Đạo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Three Principal Paths",
+        "vietnamese": "Ba Con Đường Chính Yếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take refuge",
+        "vietnamese": "Quy y",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lord/Kinh of the Gods",
+        "vietnamese": "Thiên Vương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The four immeasurable practices",
+        "vietnamese": "Thực hành Tứ Vô Lượng Tâm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Mother vow",
+        "vietnamese": "Đại giới nguyện vs Trọng Giới",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Moses",
+        "vietnamese": "Tên người nổi tiếng trong đạo chúa (nhà tiên tri)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Requirement",
+        "vietnamese": "điều kiện cần thiết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Unsurpassed",
+        "vietnamese": "không thể nhiều hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Matchless Enlightenment",
+        "vietnamese": "Vô thượng chánh đẳng chánh giác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Merit",
+        "vietnamese": "Công đức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Empowerment",
+        "vietnamese": "Lễ quán đảnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Bodhisattva",
+        "vietnamese": "Bồ tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "work on this",
+        "vietnamese": "tiếp tục tiến hành điều này",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take a vow",
+        "vietnamese": "Nhận giới nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Deceptively truth",
+        "vietnamese": "Sự thật làm cho nhầm lẫn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "with respect to; in respect of",
+        "vietnamese": "về, đối với (vấn đề gì, ai...)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "bhagavad-gita",
+        "vietnamese": "Chí tôn ca",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Limitless Life\nAmitayus",
+        "vietnamese": "Vô Lượng Thọ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Kadampa",
+        "vietnamese": "Phái Kadampa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sansara",
+        "vietnamese": "vòng luân hồi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "attachment",
+        "vietnamese": "sự dính mắc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Fat cat",
+        "vietnamese": "tư bản kếch xù, tài phiệt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "realm of form",
+        "vietnamese": "cõi giới của hình tướng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Loving – kindness",
+        "vietnamese": "lòng từ, lòng từ ái",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Luxurious",
+        "vietnamese": "xa xỉ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Category",
+        "vietnamese": "căn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Kleshas \nmental affliction",
+        "vietnamese": "phiền não tinh thần",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": " Shamatha",
+        "vietnamese": "thiền định sâu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "One Who Has Gone to Bliss\nSugata",
+        "vietnamese": "Đấng Thiện Thệ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "what it feels like to reach bodhichitta",
+        "vietnamese": "cảm nhận nó như thế nào khi đạt được Bồ Đề Tâm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Treasure House of Higher Knowledge",
+        "vietnamese": "Kho Tàng Tri Thức Cao Hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vipashyana",
+        "vietnamese": "nhìn thấy tính không trực tiếp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Shargom",
+        "vietnamese": "Thiền ôn tập",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mother vow",
+        "vietnamese": "Đại giới nguyện vs Trọng Giới",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Ultimate Wish",
+        "vietnamese": "Ước nguyện vô thượng/Ước nguyện tối thượng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Steps to Buddhahood",
+        "vietnamese": "Những Bước dẫn đến Phật Quả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "seven-limbed",
+        "vietnamese": "thất chi nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "I could help people more",
+        "vietnamese": "tôi có thể giúp mọi người nhiều hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "prayer",
+        "vietnamese": "lời nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok, cho khớp với Kinh"
+    },
+    {
+        "vocabulary": "Chalapa",
+        "vietnamese": "Nơi thầy hay giảng Retreat ở Mexico",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Illumination of the True Thought",
+        "vietnamese": "sự soi sáng của suy nghĩ chân thực",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "To be in someone’s favour",
+        "vietnamese": "được ai yêu mến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sansara",
+        "vietnamese": "vòng luân hồi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "cognate",
+        "vietnamese": "từ cùng gốc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Give the empowerment\n\n\nTake the empowerment",
+        "vietnamese": "Truyền lễ quán đảnh/truyền trao sự quán đảnh (tuỳ theo ngữ cảnh)\nNhận quán đảnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Lưu ý: không viết hoa chữ ‘quán đảnh” nếu không phải ở đầu câu"
+    },
+    {
+        "vocabulary": "Upset, worried, unhappy, angry",
+        "vietnamese": "Buồn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Higher Knowledge",
+        "vietnamese": "tri thức cao hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lobsang Chokyi Gyaltsen",
+        "vietnamese": "Đức Panchen Lama Thứ Nhất, Ban Thiền Lạt Ma Thứ Nhất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "vinaya-piṭaka",
+        "vietnamese": "luật tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pure One",
+        "vietnamese": "Đấng Thuần Khiết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "grief",
+        "vietnamese": "sự đau buồn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Proof of Emptiness",
+        "vietnamese": "chứng minh về tính không",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Link",
+        "vietnamese": "nhân duyên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "finish off",
+        "vietnamese": "loại bỏ hết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dullness",
+        "vietnamese": "uể oải, đờ đẫn (hôn trầm)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Maudgalyayana",
+        "vietnamese": "Ngài Mục Kiền Liên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the circle of suffering life",
+        "vietnamese": "Vòng luân hồi đau khổ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "tulku",
+        "vietnamese": "tên chung chỉ tái sinh của bậc thầy tâm linh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Suchness—The real truth of things",
+        "vietnamese": "chân như",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Short Path to Great Bliss",
+        "vietnamese": "Con Đường Ngắn Dẫn Đến Sự Đại Hỷ Lạc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Shargom",
+        "vietnamese": "Thiền ôn tập",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to talk out of",
+        "vietnamese": "bàn ra, can ngăn, nói để đừng làm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the far-reaching lineage",
+        "vietnamese": "Hệ phái hành vi quảng đại",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Jokgom",
+        "vietnamese": "Thiền phân tích",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "",
+        "vietnamese": "Các từ hay dùng: tụng Kinh, trì chú, niệm Phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sun Gleam, and Moon Glow",
+        "vietnamese": "Nhật Quang Biến Chiếu, và Nguyệt Quang Biến Chiếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "freedom vows\nPrātimokṣa",
+        "vietnamese": "Giới Biệt giải thoát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Thrust to the Goal\nAmoghavikram",
+        "vietnamese": "Bất Không Siêu Việt Bồ Tát ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "intellectual understanding",
+        "vietnamese": "sự hiểu biết tri thức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "cessation meditation",
+        "vietnamese": "thiền chấm dứt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Garuda\n.= magical eagles",
+        "vietnamese": "Kim sí điểu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Eon",
+        "vietnamese": "thời kỳ dài vô tận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Holder of the Diamond (Vajrapani)",
+        "vietnamese": "Đại Thế Chí",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Abhidharma",
+        "vietnamese": "Vi Diệu Pháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Bhaisajyaguru: (King of Lapis Light)",
+        "vietnamese": "Dược Sư Lưu Ly Quang Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "immeasurable equanimity\n (btang-snyoms, Skt: upeksha, Pali: upekkha)",
+        "vietnamese": "Xả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to talk someone into doing something",
+        "vietnamese": "thuyết phục ai làm điều gì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "pumped into",
+        "vietnamese": "tình cờ gặp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Luxurious",
+        "vietnamese": "xa xỉ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Secret Treasure of the Angels",
+        "vietnamese": "Kho Báu Bí Mật của Các Thiên Thần",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Reflect",
+        "vietnamese": "quán chiếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pain",
+        "vietnamese": "nỗi đau thể xác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Teacher of Gods and Men",
+        "vietnamese": "Thiên Nhơn Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "A Clarification of the Words",
+        "vietnamese": "Sự giải thích về ngôn từ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "make the most of life",
+        "vietnamese": "tận dụng tối đa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to come into being (existence)",
+        "vietnamese": "hình thành, ra đời",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "path of habituation",
+        "vietnamese": "Con đường của thói quen",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "In which = where",
+        "vietnamese": "",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "necessities",
+        "vietnamese": "những thứ cần dùng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "xīguā",
+        "vietnamese": "quả dưa hấu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Stupa",
+        "vietnamese": "Bảo tháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Śāriputra",
+        "vietnamese": "Ngài Xá Lợi Phất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "School",
+        "vietnamese": "trường phái",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Steps on the path",
+        "vietnamese": "những bước trên cond đường giác ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Ornament of Realizations",
+        "vietnamese": "Sự Trang Hoàng cho Thực Chứng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "School",
+        "vietnamese": "trường phái",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "113.\tSelfishness—Self-cherishing—Selfish motive",
+        "vietnamese": "ích kỷ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vinaya",
+        "vietnamese": "Luật tạng – Giới luật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "look like",
+        "vietnamese": "có vẻ như",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pop in",
+        "vietnamese": "đi vào chớp nhoáng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "View of destruction",
+        "vietnamese": "góc nhìn của sự huỷ diệt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dirty good karma",
+        "vietnamese": "Nghiệp không tinh khiết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Prayers của các Đức Phật",
+        "vietnamese": "hạnh nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Vow",
+        "vietnamese": "Giới nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "the eight worldly thoughts",
+        "vietnamese": "8 mối bận tâm thế tục",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "immeasurable compassion \n(snying-rje, Skt: karuna, Pali: karuna)",
+        "vietnamese": "Bi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Poverty",
+        "vietnamese": "sự nghèo nàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Banner",
+        "vietnamese": "Tràng phan, biểu ngữ, cờ phướn, ...",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Bodhisattva",
+        "vietnamese": "Bồ tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "twelve Princes of the Spirits of Power",
+        "vietnamese": "12 vị dược xoa đại tướng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Englightened Being",
+        "vietnamese": "Đấng Giác Ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 16"
+    },
+    {
+        "vocabulary": "Yakshas\n\nThe twelve yakshas",
+        "vietnamese": "Các vị dược xoa\n\nThập nhị Dược Xoa Đại Tướng\n\n12 vị đại tướng Dược Xoa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Detailist ",
+        "vietnamese": "Tỳ Bà Sa Bộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Non-returner",
+        "vietnamese": "Bất Lai (A na hàm)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sadhana",
+        "vietnamese": "Thành tựu pháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "put to a final rest",
+        "vietnamese": "được tịnh hoá hoàn toàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "6 perfections",
+        "vietnamese": "6 sự hoàn hảo = 6 ba la mật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddha land",
+        "vietnamese": "Vùng đất Phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Svaragosaraja: \n(Jewel Moon)",
+        "vietnamese": "Bảo Nguyệt Trí Nghiêm Quang Âm Tự Tại Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "proper behavior",
+        "vietnamese": "cách cư xử đúng đắn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Watchfulness",
+        "vietnamese": "sự quan sát kỹ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get to know",
+        "vietnamese": "làm quen",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lamp for the Path",
+        "vietnamese": "đèn soi nẻo giác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mthar Thug\ncompletion",
+        "vietnamese": "Hoàn thành",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sadhana",
+        "vietnamese": "Thành tựu pháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "To be used to",
+        "vietnamese": "quen",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Emanation",
+        "vietnamese": "Hoá thân là biến thành nhiều thứ khác nhau",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Englightened Being",
+        "vietnamese": "Đấng Giác Ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 16"
+    },
+    {
+        "vocabulary": "Navel chakra",
+        "vietnamese": "Luân xa bụng or Luân xa rốn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Maudgalyāyana",
+        "vietnamese": "Ngài Mục Kiền Liên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Bring up",
+        "vietnamese": "khơi dậy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "work on this",
+        "vietnamese": "tiếp tục tiến hành điều này",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nail down",
+        "vietnamese": "Ấn chứng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Limitless Life\nAmitayus",
+        "vietnamese": "Vô Lượng Thọ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Deny",
+        "vietnamese": "phủ nhận/bác bỏ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Yogi",
+        "vietnamese": "người tập yoga thuần thực, coi nó là lối sống của mình",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mthar Thug\ncompletion",
+        "vietnamese": "Hoàn thành",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Commentary on Valid Perception",
+        "vietnamese": "luận giải về sự nhận thức hợp lệ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Teacher of Gods and Men",
+        "vietnamese": "Thiên Nhơn Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Go through",
+        "vietnamese": "Điểm qua, trải qua, thông qua, đồng thuận...",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Nyingma, Kagyu, Sakya, Gelug",
+        "vietnamese": "các trường phái của Tây Tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pratimoksha",
+        "vietnamese": "Giải thoát cá nhân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "giới nguyện cá nhân"
+    },
+    {
+        "vocabulary": "Sunlight on Suchness",
+        "vietnamese": "Ánh Mặt Trời Về Chân Như",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Out of anger",
+        "vietnamese": "vì tức giận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Class of the Pure",
+        "vietnamese": "- \"Tầng Lớp Của Đấng Thuần Khiết (Dân chúng của Đại Phạm Vương) - Phạm Chúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Medicine Buddhas",
+        "vietnamese": "Các Đức Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Shift gears",
+        "vietnamese": "chuyển sang phần khác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "we are going to do together",
+        "vietnamese": "Chúng ta sẽ cùng nhau thực hiện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Heart Sutra",
+        "vietnamese": "Bát Nhã Tâm Kinh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the tip of the crown of his head",
+        "vietnamese": "nhục kế",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "priestly caste",
+        "vietnamese": "tầng lớp tu sĩ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "The Wish for enlightenment",
+        "vietnamese": "Ước nguyện cho sự giác ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Grace",
+        "vietnamese": "Cúng dường thức ăn (cúng dường miếng ăn và thức uống đầu tiên lên Các Đức Phật, Các Đức Bồ tát, và các vị thầy của bạn)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "just has a different",
+        "vietnamese": "đứng trước động thì thật đúng là, hoàn toàn, đáng giá",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Antidote",
+        "vietnamese": "Cách hóa giải, Cách đối trị, Thuốc giải độc.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Tùy theo ngữ cảnh."
+    },
+    {
+        "vocabulary": "Heap",
+        "vietnamese": "Uẩn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "acharyas",
+        "vietnamese": "người dạy cách cử xử đúng đắn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Be meant to= to be required or supposed; to have to",
+        "vietnamese": "",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Singing Tree",
+        "vietnamese": "Cây Nhạc Âm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Or else",
+        "vietnamese": "Nếu không thì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Limitless Light",
+        "vietnamese": "Vô Lượng Quang",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Run into",
+        "vietnamese": "tình cờ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Thob blo",
+        "vietnamese": "trạng thái của tâm trí khi bạn nghĩ rằng “tôi đã hiểu nó”",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get to know",
+        "vietnamese": "làm quen",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Total-Nirvana Sutra",
+        "vietnamese": "Kinh Đại Bát-Niết Bàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "covering his ass",
+        "vietnamese": "tự bảo vệ bản thân khỏi những lời chỉ trích",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "ignorant liking",
+        "vietnamese": "thích vô minh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "To catch",
+        "vietnamese": "bị nhiễm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Preta",
+        "vietnamese": "ngạ quỷ, quỷ đói",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Root Wisdom",
+        "vietnamese": "trí tuệ gốc rễ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "To be supposed to\nto have to;\n to have a duty or a responsibility to",
+        "vietnamese": "phải",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Classic",
+        "vietnamese": "kinh điển",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Functionalist\" group",
+        "vietnamese": "Nhóm chức năng luận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pramana\nvalid perception, correct perception, clear thinking",
+        "vietnamese": "Nhận thức đúng đắn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Retreat",
+        "vietnamese": "Khóa tu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Lesser Capacity",
+        "vietnamese": "năng lực thấp hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dullness",
+        "vietnamese": "uể oải, đờ đẫn (hôn trầm)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mosque",
+        "vietnamese": "thánh đường hồi giáo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Illumination of the True Thought",
+        "vietnamese": "Sự Soi Rọi của Suy Nghĩ Đúng Đắn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "go on",
+        "vietnamese": "bắt đầu làm gì đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the written Dharma",
+        "vietnamese": "pháp thể hiện bằng văn bản",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddha nature\nTathagata-garbha ",
+        "vietnamese": "Phật tính",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Practitioners",
+        "vietnamese": "Những người thực hành pháp/Hành giả.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Used to",
+        "vietnamese": "đã từng, giờ không làm nữa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Look into",
+        "vietnamese": "nhìn vào, xem xét kỹ, nghiên cứu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Unsurpassed",
+        "vietnamese": "không thể nhiều hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "pay her back, repay",
+        "vietnamese": "báo đáp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "self-nature",
+        "vietnamese": "tự tánh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "monk",
+        "vietnamese": "tu sĩ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Tengyur",
+        "vietnamese": "Luận Tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Brahman",
+        "vietnamese": "Bà-la-môn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Greater Steps on the Secret Path",
+        "vietnamese": "Những Bước Vĩ Đại Hơn trên Con Đường Bí Mật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mess around/about",
+        "vietnamese": "làm tắc trách, làm mất thì giờ làm việc linh tinh.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vipashyana",
+        "vietnamese": "nhìn thấy tính không trực tiếp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "front end",
+        "vietnamese": "đầu trước",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Path of karma",
+        "vietnamese": "con đường nghiệp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Name của các Đức Phật",
+        "vietnamese": "Danh hiệu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Mahamudra = great seal",
+        "vietnamese": "Đại thủ ấn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Discourse",
+        "vietnamese": "buổi diễn thuyết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mantra",
+        "vietnamese": "Bài chú",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Someone or other",
+        "vietnamese": "ai đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "K. Dorje",
+        "vietnamese": "học trò của Ngài Tsongkapa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "To be in favour of sth",
+        "vietnamese": "ủng hộ cái gì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lord Tsongkapa",
+        "vietnamese": "Đức Tsongkapa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take refuge",
+        "vietnamese": "Quy y",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "A Detailed Account of the Ancient Prayers of the Seven Who Have Gone That Way",
+        "vietnamese": "Một Bản Tường Thuật Chi Tiết Về Những Lời Nguyện Cổ Xưa Của Bảy Đấng Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "put to a final rest",
+        "vietnamese": "được tịnh hoá hoàn toàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "freedom vows\nPrātimokṣa",
+        "vietnamese": "Giới Biệt giải thoát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vinaya Pitaka",
+        "vietnamese": "luật tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Or else",
+        "vietnamese": "Nếu không thì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Freedom Shelter",
+        "vietnamese": "cứu thoát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Ornament of/for Realization",
+        "vietnamese": "Trang hoàng cho sự thực chứng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Three Principal Paths",
+        "vietnamese": "Ba Con Đường Chính Yếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "excellent signs and marks",
+        "vietnamese": "những nét tướng tuyệt hảo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Shariputra",
+        "vietnamese": "Ngài Xá Lợi Phất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Theravada",
+        "vietnamese": "Thượng tọa bộ Phật giáo hay Phật giáo Nam truyền, Phật giáo Nam tông",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "nothing but the mind",
+        "vietnamese": "không có gì khác ngoài tâm trí",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "friar",
+        "vietnamese": "người thầy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Bodhisattva’s Life",
+        "vietnamese": "Cuộc Đời của Bồ Tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Watchfulness",
+        "vietnamese": "sự quan sát kỹ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to distance oneself from sb/sth",
+        "vietnamese": "không tán thành hoặc không dính lứu với ai/cái gì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "sickness of negative thought",
+        "vietnamese": "bệnh suy nghĩ tiêu cực",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "each one for the other",
+        "vietnamese": "mỗi người vì mọi người",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "without reference to",
+        "vietnamese": "không có liên quan gì đến; không kể gì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "start out",
+        "vietnamese": "bắt đầu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Able One",
+        "vietnamese": "Đấng Tối Thắng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Perfection of Wisdom\nPrajna Paramita",
+        "vietnamese": "Trí tuệ toàn hảo/hoàn hảo/trí tuệ Ba la mật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Diamond Cutter sutra",
+        "vietnamese": "Kinh Năng Đoạn Kim Cương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Đã được thầy lưu ý ở bài giảng nào đó trong retreat."
+    },
+    {
+        "vocabulary": "just has a different",
+        "vietnamese": "đứng trước động thì thật đúng là, hoàn toàn, đáng giá",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to be about to",
+        "vietnamese": "sẵn sàng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vajra",
+        "vietnamese": "chày kim cương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sunlight on the Path to Freedom",
+        "vietnamese": "Ánh Mặt Trời Trên Con Đường Dẫn Đến Sự Tự Do",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Hardship",
+        "vietnamese": "thử thách",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Classic",
+        "vietnamese": "kinh điển",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Purification",
+        "vietnamese": "Sự tịnh hóa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "I could help more people",
+        "vietnamese": "tôi có thể giúp nhiều người hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nothing at all",
+        "vietnamese": "không gì cả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Gentle voice",
+        "vietnamese": "Đức Văn Thù",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "much less",
+        "vietnamese": "chắc chắn không, chưa kể đến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Manjusri\nGentle Voice (c bổ sung)",
+        "vietnamese": "Đức Văn Thù Sư Lợi Bồ tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Essential Jewel",
+        "vietnamese": "Viên Ngọc Tinh Hoa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Used to",
+        "vietnamese": "đã từng, giờ không làm nữa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Apply oneself",
+        "vietnamese": "chuyên tâm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pick your nose",
+        "vietnamese": "ngoáy mũi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mahayana",
+        "vietnamese": "Đại Thừa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "direct disciple",
+        "vietnamese": "đệ tử trực hệ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "from instant to instant",
+        "vietnamese": "từ khoảnh khắc này sang khoảng khắc khác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "cold-hearted people",
+        "vietnamese": "Những (con) người vô cảm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 17"
+    },
+    {
+        "vocabulary": "Manjusri\nGentle Voice (c bổ sung)",
+        "vietnamese": "Đức Văn Thù Sư Lợi Bồ tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Kleshas \nmental affliction",
+        "vietnamese": "phiền não tinh thần",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "perfect and total Buddha",
+        "vietnamese": "Phật chánh đẳng, cháng giác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "acharyas",
+        "vietnamese": "người dạy cách cử xử đúng đắn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddhahood",
+        "vietnamese": "Quả vị Phật, Phật quả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nyon Mongs",
+        "vietnamese": "cảm xúc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Shining Like the Sun",
+        "vietnamese": "Nhật quang biến chiếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Paranoia",
+        "vietnamese": "nghi ngờ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "attendant",
+        "vietnamese": "thị giả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "go off",
+        "vietnamese": "bắt đầu không thích",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "friar",
+        "vietnamese": "người thầy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nyingma, Kagyu, Sakya, Gelug",
+        "vietnamese": "các trường phái của Tây Tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nirvana",
+        "vietnamese": "Niết bàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "kong xing \nEmptiness",
+        "vietnamese": "Tính không",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Purification",
+        "vietnamese": "Sự tịnh hóa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "cấu trúc TOO...TO",
+        "vietnamese": "QUÁ...KHÔNG THỂ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the tip of the crown of his head",
+        "vietnamese": "nhục kế",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Reality",
+        "vietnamese": "thực tại",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Awaken One",
+        "vietnamese": "Phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Secret Treasure of the Angels",
+        "vietnamese": "Kho Báu Bí Mật của Các Thiên Thần",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Go through",
+        "vietnamese": "nghiên cứu cẩn thận/ đi qua",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vowed Morality",
+        "vietnamese": "giới luật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "punchline",
+        "vietnamese": "điểm mấu chốt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Great Result",
+        "vietnamese": "Quảng Quả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Get upset",
+        "vietnamese": "lo lắng, khó chịu, bực mình, không vui",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Asanga",
+        "vietnamese": "Ngài Vô Trước",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "much less",
+        "vietnamese": "chắc chắn không, chưa kể đến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "degrees",
+        "vietnamese": "mức độ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "The Great Book on the Steps to Enlightenment\n (Lamrim Chenmo.)",
+        "vietnamese": "Cuốn Sách Vĩ Đại Về Những Bước Đến Với Sự Giác Ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pure",
+        "vietnamese": "thanh tịnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vow",
+        "vietnamese": "Giới nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "the Perfection of Wisdom\nPrajna Paramita",
+        "vietnamese": "Trí tuệ toàn hảo/hoàn hảo/trí tuệ Ba la mật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Clear Light",
+        "vietnamese": "Quang âm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Treasure House of Higher Knowledge",
+        "vietnamese": "Kho Tàng Tri Thức Cao Hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sun is sinking",
+        "vietnamese": "mặt trời đang lặn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "And then",
+        "vietnamese": "hơn nữa, vả lại, thêm vào đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Reality",
+        "vietnamese": "thực tại",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Conqueror = Bhagavan",
+        "vietnamese": "Bạc Già Phạm = Thế Tôn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Wish for enlightenment",
+        "vietnamese": "Ước nguyện cho sự giác ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sinha Vijirmbhita",
+        "vietnamese": "Vũ Điệu Sư Tử",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "monk",
+        "vietnamese": "tu sĩ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Jokgom",
+        "vietnamese": "Thiền phân tích",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Essence of the Middle Way",
+        "vietnamese": "bản chất của Trung Đạo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sunlight on the Path to Freedom",
+        "vietnamese": "Ánh Mặt Trời Trên Con Đường Dẫn Đến Sự Tự Do",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the lineage of the profound view",
+        "vietnamese": "hệ phái tri kiến sâu xa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Split hairs = seperate hairs",
+        "vietnamese": "bới lông tìm vết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Perfect Trainer of Good Men",
+        "vietnamese": "Ðiều Ngự Trượng Phu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to talk someone into doing something",
+        "vietnamese": "thuyết phục ai làm điều gì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "dis-ing",
+        "vietnamese": "từ lóng có nghĩa là không tôn trọng mà nói theo nghĩa xấu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "pay honor to ",
+        "vietnamese": "bầy tỏ lòng tôn kính, kính trọng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "ALL (Asian Legacy Library)",
+        "vietnamese": "Thư viện Di sản Châu Á",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Major sign",
+        "vietnamese": "hảo tướng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Agitation",
+        "vietnamese": "những suy nghĩ lung tung",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Hermitage",
+        "vietnamese": "tu viện ẩn dật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Sutra of the Seven Prayers",
+        "vietnamese": "Kinh Thất Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "treasure of knowledge",
+        "vietnamese": "kho tàng kiến thức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Loving – kindness",
+        "vietnamese": "lòng từ, lòng từ ái",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Arya",
+        "vietnamese": "người nhìn thấy tính không trực tiếp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "To be in someone’s favour",
+        "vietnamese": "được ai yêu mến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "dis-ing",
+        "vietnamese": "từ lóng có nghĩa là không tôn trọng mà nói theo nghĩa xấu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Root Wisdom",
+        "vietnamese": "trí tuệ gốc rễ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Spirit",
+        "vietnamese": "quỷ thần",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "ignorant disliking",
+        "vietnamese": "không thích vô minh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Go off",
+        "vietnamese": "rời nơi nay đến nơi khác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dharmakirti",
+        "vietnamese": "Ngài Pháp Xứng ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Hail Mary",
+        "vietnamese": "Kính chào Đức Mẹ Maria",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Letter to a Friend",
+        "vietnamese": "Bức Thư Cho Một Người Bạn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Svabhavakaya\nMind Essence Body",
+        "vietnamese": "",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Arya",
+        "vietnamese": "người nhìn thấy tính không trực tiếp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "space out",
+        "vietnamese": "Không tập trung",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Climb to the Peak\nMerukūṭaḥ",
+        "vietnamese": "Biện Phong Bồ Tát ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Shift gears",
+        "vietnamese": "chuyển sang phần khác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "cessation meditation",
+        "vietnamese": "thiền chấm dứt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Unexcelled Being",
+        "vietnamese": "Vô Thượng Sĩ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Unsurpassable",
+        "vietnamese": "Tối thượng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "chưa confirm"
+    },
+    {
+        "vocabulary": "In the first place",
+        "vietnamese": "ngay từ đầu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Out of",
+        "vietnamese": "vì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to distance oneself from sb/sth",
+        "vietnamese": "không tán thành hoặc không dính lứu với ai/cái gì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "wrap up",
+        "vietnamese": "hoàn thành/tóm lại",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Out of",
+        "vietnamese": "vì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "start out",
+        "vietnamese": "bắt đầu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Birth of Merit",
+        "vietnamese": "Phúc Sinh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "instant by instant",
+        "vietnamese": "từng khoảnh khắc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nothing at all",
+        "vietnamese": "không gì cả",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": " Mahakaushtila",
+        "vietnamese": "Ngài Ma Ha Câu Hy La",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "pumped into",
+        "vietnamese": "tình cờ gặp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Knower of the Worlds",
+        "vietnamese": "Thế gian giải",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "dark ignorance",
+        "vietnamese": "sự vô minh tăm tối",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Eye-Opener",
+        "vietnamese": "Khai Thị",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "non-duality",
+        "vietnamese": "bất nhị nguyên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the 12 spirit lords",
+        "vietnamese": "12 vị chúa tể của các quỷ thần.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "everweeping",
+        "vietnamese": "Thường Đề Bồ Tát",
+        "tibAndSanskrit": "sarapudita",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Yakshas\n\nThe twelve yakshas",
+        "vietnamese": "Các vị dược xoa\n\nThập nhị Dược Xoa Đại Tướng\n\n12 vị đại tướng Dược Xoa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Nyon Mongs",
+        "vietnamese": "cảm xúc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "I could help more people",
+        "vietnamese": "tôi có thể giúp nhiều người hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to treat someone well",
+        "vietnamese": "đối xử tốt với ai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Medicine Buddha team.",
+        "vietnamese": "Hội thượng Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 10"
+    },
+    {
+        "vocabulary": "Call in",
+        "vietnamese": "gọi đến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vajra",
+        "vietnamese": "chày kim cương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Moses",
+        "vietnamese": "Tên người nổi tiếng trong đạo chúa (nhà tiên tri)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Channels and Winds and Drops",
+        "vietnamese": "Kinh mạch, Khí, và Những hạt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Englightened Being",
+        "vietnamese": "Đấng Giác Ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng với 26"
+    },
+    {
+        "vocabulary": "Confession",
+        "vietnamese": "Sám hối, thú nhận, thú tội...",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Tùy theo ngữ cảnh."
+    },
+    {
+        "vocabulary": "cấu trúc TOO...TO",
+        "vietnamese": "QUÁ...KHÔNG THỂ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Short Path to Great Bliss",
+        "vietnamese": "Con Đường Ngắn Dẫn Đến Sự Đại Hỷ Lạc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Gijjhakuta\n Vulture peak",
+        "vietnamese": "Núi Linh Thứu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "from instant to instant",
+        "vietnamese": "từ khoảnh khắc này sang khoảng khắc khác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Heart Sutra",
+        "vietnamese": "Bát Nhã Tâm Kinh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "impaired",
+        "vietnamese": "bị tổn thương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Climb to the Peak\nMerukūṭaḥ",
+        "vietnamese": "Biện Phong Bồ Tát ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Three Principal Paths ",
+        "vietnamese": "Ba Con Đường Chính Yếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Commentary on Valid Perception",
+        "vietnamese": "luận giải về sự nhận thức hợp lệ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lobsang Chokyi Gyaltsen",
+        "vietnamese": "Đức Panchen Lama Thứ Nhất, Ban Thiền Lạt Ma Thứ Nhất",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get into/in her car",
+        "vietnamese": "lên xe, vào xe",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Thus Come One\nOne who has gone thus\nThe Buddha\nAn Enlightened One\nHe who comes and goes in the same way",
+        "vietnamese": "Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "realm of desire",
+        "vietnamese": "cõi giới của ham muốn.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Saṃbhogakāya\nẹnjoyment body",
+        "vietnamese": "Báo thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "necessities",
+        "vietnamese": "những thứ cần dùng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the lineage of the profound view",
+        "vietnamese": "hệ phái tri kiến sâu xa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Kun Slong – Motivation",
+        "vietnamese": "động lực",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Link",
+        "vietnamese": "nhân duyên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get rid of",
+        "vietnamese": "loại bỏ, thoát khỏi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lord/Kinh of the Gods",
+        "vietnamese": "Thiên Vương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "In and of itself",
+        "vietnamese": "trong và ngoài chính nó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Spirit",
+        "vietnamese": "quỷ thần",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Be meant to= to be required or supposed; to have to",
+        "vietnamese": "",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get into/in her car",
+        "vietnamese": "lên xe, vào xe",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Serene One",
+        "vietnamese": "Thiện Thệ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Do a kick ass",
+        "vietnamese": "hãy thực hiện 1 điều gì đó tuyệt vời",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Medicine Buddha Practice\n\n\n\n\nLearn Medicine Buddha Practice",
+        "vietnamese": "Thực Hành Pháp Phật Dược Sư \n\n\n\nHọc cách thực hành pháp Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Chengdu",
+        "vietnamese": "Thành đô, 1 thành phố của TQ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Comes from",
+        "vietnamese": "Made in a particular place",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "còn có nghĩa này"
+    },
+    {
+        "vocabulary": "self-nature",
+        "vietnamese": "tự tánh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mahāsāṃghika",
+        "vietnamese": "Đại chúng bộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Stages of meditation",
+        "vietnamese": "Các giai đoạn thiền định",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "A Compendium of All the Sutras",
+        "vietnamese": "Một Bản Tóm Tắt Của Tất Cả Các Kinh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Panchen Lama",
+        "vietnamese": "Ngài Panchen Lama (Ban Thiền Lạt Ma)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Giữ nguyên tên của Ngài và (..) tiếng Việt để học viên biết"
+    },
+    {
+        "vocabulary": "Navel chakra",
+        "vietnamese": "Luân xa bụng or Luân xa rốn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Tara",
+        "vietnamese": "Mẹ Tara/Đức Tara",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "In person",
+        "vietnamese": "đích thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "look like",
+        "vietnamese": "có vẻ như",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Kaya",
+        "vietnamese": "thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Destroyer of the Foe",
+        "vietnamese": "Đấng Ứng Cúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Major sign",
+        "vietnamese": "hảo tướng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Fàntǒng\nstupid",
+        "vietnamese": "vô dụng, bất tài, ngốc nghếch ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Panchen Lama",
+        "vietnamese": "Ban Thiền Lạt Ma",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "immeasurable love\n(byams-pa, Skt: maitri, Pali: metta)",
+        "vietnamese": "Từ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "ultimate truth",
+        "vietnamese": "sự thật tối thượng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Nail down",
+        "vietnamese": "Ấn chứng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "ignorant disliking",
+        "vietnamese": "không thích vô minh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "comes to pass",
+        "vietnamese": "kết thúc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "path of preparation",
+        "vietnamese": "Con đường chuẩn bị",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "ground up",
+        "vietnamese": "Nghiền ra",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "practice reciting the sadhana",
+        "vietnamese": "thực hành trì tụng thành tựu pháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Look upon",
+        "vietnamese": "nghĩ về",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take refuge",
+        "vietnamese": "Quy y",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Name của các Đức Phật",
+        "vietnamese": "Danh hiệu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Rough",
+        "vietnamese": "đại khái, sơ bộ, chung chung",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Svabhavakaya\nMind Essence Body",
+        "vietnamese": "",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "restrain",
+        "vietnamese": "kiềm chế",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "grab=grasp",
+        "vietnamese": "chấp trước/bám chấp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sunlight on Suchness",
+        "vietnamese": "Ánh Mặt Trời Về Chân Như",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "treasure of knowledge",
+        "vietnamese": "kho tàng kiến thức",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Chalapa",
+        "vietnamese": "Nơi thầy hay giảng Retreat ở Mexico",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "seven-limbed",
+        "vietnamese": "thất chi nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "the path of seeing",
+        "vietnamese": "con đường của sự nhìn thấy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Kangyur",
+        "vietnamese": "Kinh Tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Upset, worried, unhappy, angry",
+        "vietnamese": "Buồn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sunlight on the Path to Freedom",
+        "vietnamese": "Ánh Mặt Trời trên Con Đường đến Sự Tự Do",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "In which = where",
+        "vietnamese": "",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "direct disciple",
+        "vietnamese": "đệ tử trực hệ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Maitreya",
+        "vietnamese": "Phật Di Lặc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Diamond Cutter sutra",
+        "vietnamese": "Kinh Năng Đoạn Kim Cương",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Đã được thầy lưu ý ở bài giảng nào đó trong retreat."
+    },
+    {
+        "vocabulary": "Asokottamasriraja:\n(No Grief)",
+        "vietnamese": "Vô Ưu Tối Thắng Cát Tường Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "frame of mind",
+        "vietnamese": "tâm trạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Quietude\nStillness",
+        "vietnamese": "Sự yên lặng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Prayers của các Đức Phật",
+        "vietnamese": "hạnh nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Three Jewels, Three Treasures",
+        "vietnamese": "Tam Bảo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "break from",
+        "vietnamese": "thoát khỏi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pick your nose",
+        "vietnamese": "ngoáy mũi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Discourse",
+        "vietnamese": "buổi diễn thuyết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Essence of Eloquence",
+        "vietnamese": "Tinh Hoa Hùng Biện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "In person",
+        "vietnamese": "đích thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Paranoia",
+        "vietnamese": "nghi ngờ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pain",
+        "vietnamese": "nỗi đau thể xác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Channels and Winds and Drops",
+        "vietnamese": "Kinh mạch, Khí, và Những hạt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "sak jang",
+        "vietnamese": "thiền 7 bước khởi động\nthiền người thầy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Not … but rather",
+        "vietnamese": "không phải … mà là",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "with respect to; in respect of",
+        "vietnamese": "về, đối với (vấn đề gì, ai...)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Path To Bliss",
+        "vietnamese": "Con đường đến hỷ lạc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "\"Implication\" School",
+        "vietnamese": "trung quán cụ duyên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Hardship",
+        "vietnamese": "thử thách",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Four bodies of Buddha",
+        "vietnamese": "Tứ thân Phật/Bốn thân Phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Vinaya",
+        "vietnamese": "Luật tạng – Giới luật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "sak jang",
+        "vietnamese": "thiền 7 bước khởi động\nthiền người thầy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "cold-hearted people",
+        "vietnamese": "Những (con) người vô cảm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "trùng 27"
+    },
+    {
+        "vocabulary": "move on",
+        "vietnamese": "đi tiếp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "go on",
+        "vietnamese": "bắt đầu làm gì đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Quadalajara",
+        "vietnamese": "Một thành phố của Mexico",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Illumination of the True Thought",
+        "vietnamese": "Sự Soi Rọi của Ý Nghĩ Đúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Deceptively",
+        "vietnamese": "Làm cho nhầm lẫn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Realization",
+        "vietnamese": "chứng ngộ/ nhận thức thấu đáo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "marks and signs",
+        "vietnamese": "nét tướng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "what it feels like to reach bodhichitta",
+        "vietnamese": "cảm nhận nó như thế nào khi đạt được Bồ Đề Tâm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "protector",
+        "vietnamese": "người bảo hộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Abhiyaraja: (Dharma Ocean Supreme)/ The Highest Wisdom",
+        "vietnamese": "Pháp Hải Thắng Huệ Du Hý Thần Thông Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "immeasurable joy \n(dga'-ba, Skt: mudita, Pali: mudita)",
+        "vietnamese": "Hỉ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Circle of life",
+        "vietnamese": "Vòng luân hồi",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Comparative Systems",
+        "vietnamese": "Các Hệ Thống So Sánh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Steps on the path",
+        "vietnamese": "những bước trên cond đường giác ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Eye-Opener",
+        "vietnamese": "Khai Thị",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Look into",
+        "vietnamese": "nhìn vào, xem xét kỹ, nghiên cứu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "front end",
+        "vietnamese": "phần đầu tiên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Wisdom, The Root Text on the Middle Way",
+        "vietnamese": "Trí Tuệ, Văn Bản Gốc Trên Con Đường Trung Đạo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "let’s say",
+        "vietnamese": "giả sử rằng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Shining Like the Moon",
+        "vietnamese": "Nguyệt quang biến chiếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Anger",
+        "vietnamese": "tức giận",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Samantabhadra\nPerfect goodness",
+        "vietnamese": "Đức Phổ Hiền Bồ tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "marks and signs",
+        "vietnamese": "nét tướng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Able",
+        "vietnamese": "Đấng Tối Thắng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": " Shamatha",
+        "vietnamese": "thiền định sâu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Poverty",
+        "vietnamese": "sự nghèo nàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Katyayaniputra",
+        "vietnamese": "Ngài Ca Đa Diễn Ni Tử",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Bodhisattvacaryavatara",
+        "vietnamese": "Nhập Bồ Tát Hành",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Seven Prayers Sutra",
+        "vietnamese": "Kinh Thất Phật Dược Sư",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Hinayana",
+        "vietnamese": "Tiểu thừa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "path of seeing",
+        "vietnamese": "con đường nhìn thấy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": " Stream-enterer",
+        "vietnamese": "Nhập Lưu (Tu đà hoàn)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Pay lip service sth",
+        "vietnamese": "nói lời đãi bôi, không thành thật, chỉ thường nhận cái gì đó ngoài miệng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "keep going",
+        "vietnamese": "tiếp tục, cố gắng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mess around/about",
+        "vietnamese": "làm tắc trách, làm mất thì giờ làm việc linh tinh.",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "In the first place",
+        "vietnamese": "ngay từ đầu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the far-reaching lineage",
+        "vietnamese": "Hệ phái hành vi quảng đại",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "have a crush on… sb",
+        "vietnamese": "phải lòng ai đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddha-nature",
+        "vietnamese": "Phật tánh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "front end",
+        "vietnamese": "đầu trước",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Hermitage",
+        "vietnamese": "tu viện ẩn dật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Inconceivable",
+        "vietnamese": "không thể nghĩ bàn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Even if",
+        "vietnamese": "dù cho có, dù nếu có, kể cả nếu như mà",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Suparikirti-tanamasriraja: \n(Good name)/ Mr. Excellent Name",
+        "vietnamese": "Thiện Danh Xưng Cát Tường Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Nagarjuna",
+        "vietnamese": "Ngài Long Thọ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Thus Come One\nOne who has gone thus\nThe Buddha\nAn Enlightened One\nHe who comes and goes in the same way",
+        "vietnamese": "Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "without reference to",
+        "vietnamese": "không có liên quan gì đến; không kể gì",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Total and Completely Enlighted One",
+        "vietnamese": "Chánh Biến Tri",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Limitless Light",
+        "vietnamese": "Vô Lượng Quang",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Jing",
+        "vietnamese": "Kinh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Immeasurable Light",
+        "vietnamese": "Vô Lượng Quang",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Offering to Lama",
+        "vietnamese": "cúng dường lên các lạt ma",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "become more public knowledge",
+        "vietnamese": "bị tiết lộ ra công chúng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Bhavaviveka",
+        "vietnamese": "Ngài Thanh Biện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Perfectly Enlightened by Himself",
+        "vietnamese": "Chánh Biến Tri",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Knower of the Worlds",
+        "vietnamese": "Thế gian giải",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "immeasurable joy \n(dga'-ba, Skt: mudita, Pali: mudita)",
+        "vietnamese": "Hỉ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dharmakirti",
+        "vietnamese": "Ngài Pháp Xứng ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Banner",
+        "vietnamese": "Tràng phan, biểu ngữ, cờ phướn, ...",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Savior",
+        "vietnamese": "bậc cứu tinh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Letter to a Friend",
+        "vietnamese": "Bức Thư Cho Một Người Bạn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Four bodies of Buddha",
+        "vietnamese": "Tứ thân Phật/Bốn thân Phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "do you want to take a shot",
+        "vietnamese": "Bạn có muốn thử không",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The other day",
+        "vietnamese": "mới đây, gần đây",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Confession",
+        "vietnamese": "Sám hối, thú nhận, thú tội...",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Tùy theo ngữ cảnh."
+    },
+    {
+        "vocabulary": "Tara",
+        "vietnamese": "Mẹ Tara/Đức Tara",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Rupakaya",
+        "vietnamese": "thân vật lý của phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Samskara\nfresh karma",
+        "vietnamese": "hành uẩn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "back end",
+        "vietnamese": "đầu sau",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "even as I attain my perfection",
+        "vietnamese": "thậm chí ngay cả khi Ta đạt được sự hoàn hảo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Medicine Buddha",
+        "vietnamese": "Phật Dược Sư",
+        "tibAndSanskrit": "Bhaisajya Guru Vaidya Prabha Raja",
+        "comment": "",
+        "verification": "SMAN GYI BLA BEE d'URYA'I 'OD KYI RGYAL PO"
+    },
+    {
+        "vocabulary": "Diamond Way",
+        "vietnamese": "Đạo Kim Cương = Kim Cương Thừa",
+        "tibAndSanskrit": "Vajrayana",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Sinha Vijirmbhita",
+        "vietnamese": "Vũ Điệu Sư Tử",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Chandrakirti",
+        "vietnamese": "Ngài Nguyệt Xứng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Go off",
+        "vietnamese": "rời nơi nay đến nơi khác",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Sage",
+        "vietnamese": "nhà hiền triết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lesser Light",
+        "vietnamese": "Thiểu Quang",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Impeccable in Conduct and Understanding",
+        "vietnamese": "Minh Hạnh Túc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Cloudless",
+        "vietnamese": "Vô Vân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "The Great Book on the Steps to Enlightenment\n (Lamrim Chenmo.)",
+        "vietnamese": "Cuốn Sách Vĩ Đại Về Những Bước Đến Với Sự Giác Ngộ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Mother",
+        "vietnamese": "tác phẩm Mẹ: phần chính của giáp pháp về trí tuệ hoàn hảo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Medicine Buddha",
+        "vietnamese": "Phật Dược Sư",
+        "tibAndSanskrit": "Bhaisajya Guru Vaidya Prabha Raja",
+        "comment": "",
+        "verification": "SMAN GYI BLA BEE d'URYA'I 'OD KYI RGYAL PO"
+    },
+    {
+        "vocabulary": "Rough",
+        "vietnamese": "đại khái, sơ bộ, chung chung",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Greater Steps on the Path",
+        "vietnamese": "Những Bước Vĩ Đại Hơn trên Con Đường",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "dark ignorance",
+        "vietnamese": "sự vô minh tăm tối",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Brahman",
+        "vietnamese": "Bà-la-môn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Time exists in and of itself",
+        "vietnamese": "Thời gian tồn tại trong và từ chính bản thân nó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "the Serene One",
+        "vietnamese": "Thiện Thệ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Keep up",
+        "vietnamese": "giữ vững",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Debater",
+        "vietnamese": "nhà hùng biện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Perceive",
+        "vietnamese": "thấu suốt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Widespread Virtue",
+        "vietnamese": "Biến Tĩnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "the Awaken One",
+        "vietnamese": "Phật",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Maitreya",
+        "vietnamese": "Phật Di Lặc",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Total and Completely Enlighted One",
+        "vietnamese": "Chánh Biến Tri",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "correct view",
+        "vietnamese": "quan điểm đúng đắn = chánh kiến",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Vasubandhu",
+        "vietnamese": "Ngài Thế Thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "samyaksaṃbuddha",
+        "vietnamese": "Chánh Biến Tri",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "all of a sudden",
+        "vietnamese": "rất bất thình lình / thật là bất ngờ",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "finish off",
+        "vietnamese": "loại bỏ hết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "space out",
+        "vietnamese": "Không tập trung",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Keep up",
+        "vietnamese": "giữ vững",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "keep going",
+        "vietnamese": "tiếp tục, cố gắng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "A Compendium of All the Sutras",
+        "vietnamese": "Một Bản Tóm Tắt Của Tất Cả Các Kinh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Immeasurable Virtue",
+        "vietnamese": "Vô Lượng Tĩnh",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "Okay"
+    },
+    {
+        "vocabulary": "Tathagatha",
+        "vietnamese": "Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Gentle voice",
+        "vietnamese": "Đức Văn Thù",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "\"Mind-Only\" school",
+        "vietnamese": "trường phái duy thức/Duy Thức Tông",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Debater",
+        "vietnamese": "nhà hùng biện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Buddhist",
+        "vietnamese": "Phật Tử",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Lǎoshī",
+        "vietnamese": "thầy giáo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Singing Tree",
+        "vietnamese": "Cây Nhạc Âm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "Theravada",
+        "vietnamese": "Thượng tọa bộ Phật giáo hay Phật giáo Nam truyền, Phật giáo Nam tông",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Kaya",
+        "vietnamese": "thân",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "punchline",
+        "vietnamese": "điểm mấu chốt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "do you want to take a shot",
+        "vietnamese": "Bạn có muốn thử không",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Place",
+        "vietnamese": "đoạn sách, đoạn bài",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Shining Like the Sun",
+        "vietnamese": "Nhật quang biến chiếu",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get upset",
+        "vietnamese": "lo lắng, khó chịu, bực mình, không vui",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "nothing but the mind",
+        "vietnamese": "không có gì khác ngoài tâm trí",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Dirty good karma",
+        "vietnamese": "Nghiệp không tinh khiết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Requirement",
+        "vietnamese": "điều kiện cần thiết",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "twelve Princes of the Spirits of Power",
+        "vietnamese": "12 vị dược xoa đại tướng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Illumination of the True Thought",
+        "vietnamese": "sự soi sáng của suy nghĩ chân thực",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "to be about to",
+        "vietnamese": "sẵn sàng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Suvarnabhadradravimala: \n(Pure Gold)/Perfect Gold",
+        "vietnamese": "Kim Sắc Bảo Quang Diệu Hạnh Thành Tựu Vương Như Lai",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "teaching throne",
+        "vietnamese": "Pháp tòa",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "To catch",
+        "vietnamese": "bị nhiễm",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Stupa",
+        "vietnamese": "Bảo tháp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": "ok"
+    },
+    {
+        "vocabulary": "pay her back, repay",
+        "vietnamese": "báo đáp",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Entering the Middle Way",
+        "vietnamese": "Nhập trung đạo",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Get to",
+        "vietnamese": "có cơ hội để làm điều gì đó",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "have trouble",
+        "vietnamese": "gặp khó khăn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Take a vow",
+        "vietnamese": "nhận giới nguyện",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Preta",
+        "vietnamese": "ngạ quỷ, quỷ đói",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Higher Knowledge",
+        "vietnamese": "tri thức cao hơn",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "The Bodhisattva’s Life",
+        "vietnamese": "Cuộc Đời của Bồ Tát",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "vinaya-piṭaka",
+        "vietnamese": "luật tạng",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "path of seeing",
+        "vietnamese": "con đường nhìn thấy",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "chegom",
+        "vietnamese": "Thiền giải quyết vấn đề",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Perceive",
+        "vietnamese": "thấu suốt",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": " Stream-enterer",
+        "vietnamese": "Nhập Lưu (Tu đà hoàn)",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    },
+    {
+        "vocabulary": "Maudgalyayana",
+        "vietnamese": "Ngài Mục Kiền Liên",
+        "tibAndSanskrit": "",
+        "comment": "",
+        "verification": ""
+    }
+]
